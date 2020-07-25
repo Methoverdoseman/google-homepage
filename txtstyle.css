@@ -1,1 +1,27 @@
-txtstyle.css
+body{
+    text-align: center; 
+    background:white; 
+    -moz-appearance: none; 
+}
+#imggoogle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 200px;
+}
+
+search-icon{
+     
+    width: 1px; 
+    margin-top: 1000px; 
+
+}
+.search{ 
+    padding: 13px ;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border-color: rgb(223, 225, 229);
+    width: 550px;
+   
+}
